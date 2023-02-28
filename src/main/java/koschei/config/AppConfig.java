@@ -14,7 +14,4 @@ public class AppConfig {
         return new Island2(wood);
     }
 
-    public static Duck5 getDuck(Egg6 egg) {
-        return new Duck5(egg);
-}
 }
